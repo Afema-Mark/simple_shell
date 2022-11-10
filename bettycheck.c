@@ -7,7 +7,7 @@
  */
 int lookforslash(char *cmd)
 {
-	int cont = 0;
+	int count = 0;
 
 	while (cmd[cont])
 	{
@@ -17,7 +17,7 @@ int lookforslash(char *cmd)
 			return (1);
 		}
 
-		cont++;
+		count++;
 	}
 	return (0);
 }
