@@ -1,7 +1,8 @@
 # simple_shell
 This is  simple_shell project,how you can build your own simple shell.
 By Afema Mark and Martin Opolot
-# Man panages used for this execise are as follows
+# List of allowed functions and system calls
+Man panages used for this execise are as follows
 
 access (man 2 access)
 chdir (man 2 chdir)
